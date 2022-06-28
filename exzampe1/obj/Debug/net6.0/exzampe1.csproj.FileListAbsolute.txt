@@ -1,0 +1,15 @@
+D:\seminarC\exzampe1\bin\Debug\net6.0\exzampe1.exe
+D:\seminarC\exzampe1\bin\Debug\net6.0\exzampe1.deps.json
+D:\seminarC\exzampe1\bin\Debug\net6.0\exzampe1.runtimeconfig.json
+D:\seminarC\exzampe1\bin\Debug\net6.0\exzampe1.dll
+D:\seminarC\exzampe1\bin\Debug\net6.0\exzampe1.pdb
+D:\seminarC\exzampe1\obj\Debug\net6.0\exzampe1.csproj.AssemblyReference.cache
+D:\seminarC\exzampe1\obj\Debug\net6.0\exzampe1.GeneratedMSBuildEditorConfig.editorconfig
+D:\seminarC\exzampe1\obj\Debug\net6.0\exzampe1.AssemblyInfoInputs.cache
+D:\seminarC\exzampe1\obj\Debug\net6.0\exzampe1.AssemblyInfo.cs
+D:\seminarC\exzampe1\obj\Debug\net6.0\exzampe1.csproj.CoreCompileInputs.cache
+D:\seminarC\exzampe1\obj\Debug\net6.0\exzampe1.dll
+D:\seminarC\exzampe1\obj\Debug\net6.0\refint\exzampe1.dll
+D:\seminarC\exzampe1\obj\Debug\net6.0\exzampe1.pdb
+D:\seminarC\exzampe1\obj\Debug\net6.0\exzampe1.genruntimeconfig.cache
+D:\seminarC\exzampe1\obj\Debug\net6.0\ref\exzampe1.dll
